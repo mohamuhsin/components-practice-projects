@@ -249,11 +249,6 @@ a:hover {
 }
 ```
 
-By following these step-by-step instructions and using the provided content and CSS, you can create a multi-page website for "eadev.org." Remember to customize the content and styles to your specific project requirements.
-
-
-Of course, let's create another project to practice JSX and components. This time, we'll build a simple online bookstore website with multiple components. We'll provide detailed step-by-step instructions and example content for each component.
-
 **Project 2: Online Bookstore Website**
 
 **Step 1: Set Up the Project**
