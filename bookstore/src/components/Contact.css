@@ -1,0 +1,35 @@
+h2 {
+  text-align: center;
+  font-size: 30px;
+  color: #FFA500; /* Heading color (Orange) */
+  margin-top: 20px;
+}
+
+form {
+  text-align: center;
+  font-size: 16px;
+  color: #333; /* Text color (Dark Gray) */
+  margin: 20px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 5px;
+}
+
+button {
+  background-color: #FFA500; /* Button background color (Orange) */
+  color: white; /* Button text color */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #FF8C00; /* Hover color (Slightly darker orange) */
+}
