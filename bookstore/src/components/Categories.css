@@ -1,0 +1,19 @@
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+li a {
+  text-decoration: none;
+  color: #333; /* Text color (Dark Gray) */
+}
+
+li a:hover {
+  color: #FFA500; /* Hover color (Orange) */
+}

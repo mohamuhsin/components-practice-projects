@@ -1,0 +1,12 @@
+header {
+  background-color: #FFA500; /* Header background color (Orange) */
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img {
+  max-width: 150px; /* Adjust the logo size as needed */
+}
+

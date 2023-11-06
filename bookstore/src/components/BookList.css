@@ -1,0 +1,24 @@
+ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Display 3 books in a row */
+  gap: 20px;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #ccc; /* Gray border */
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+li:hover {
+  background-color: #FFA500; /* Hover background color (Orange) */
+}
+li .title{
+    font-size: 1.4rem;
+}
+li .author{
+    font-size: 1.2rem;
+}
